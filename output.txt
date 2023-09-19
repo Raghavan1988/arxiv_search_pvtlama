@@ -1,4 +1,4 @@
-Enter query:climate change challenges that can be solved by deep learning
+##Enter query:climate change challenges that can be solved by deep learning
 Number of backend queries:6
 ['climate change challenges that can be solved by deep learning', 'climate change challenges solvable deep learning', 'deep learning solutions for climate change challenges', 'addressing climate change challenges using deep learning', 'climate change challenges', 'deep learning']
 Round : 0
@@ -17,7 +17,7 @@ Number of documents to evaluate:15
 wrote the prompt to the file: climate change challenges that can be solved by deep learning
 
 
-The provided results cover a range of topics related to climate change and deep learning. Here are the key points of view and takeaways from each of the results:
+###The provided results cover a range of topics related to climate change and deep learning. Here are the key points of view and takeaways from each of the results:
 
     Earth's Energy Imbalance (Result ID: 1105.1140):
         Earth is absorbing more energy from the sun than it radiates into space, confirming the impact of the greenhouse effect on climate change.
