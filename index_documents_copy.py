@@ -139,7 +139,7 @@ while True:
     print("wrote the prompt to the file: " + raw_query)
 
     try:
-        pn = PromptNode("gpt-3.5-turbo", api_key="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",model_kwargs={"stream":False})
+        pn = PromptNode("gpt-3.5-turbo", api_key="sk-123",model_kwargs={"stream":False})
 
         output= pn.prompt(text)
         print("Model Response:", output)  # Print the model's response
